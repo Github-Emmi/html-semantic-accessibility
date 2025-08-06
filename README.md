@@ -32,8 +32,7 @@ I learned modern HTML5 structure using semantic tags, accessibility best practic
 |--------------|----------------------------------------------|
 | `index.html` | Main HTML5 file with semantic structure       |
 | `README.md`  | Project overview and setup instructions       |
-
----
+| `Github Page` | https://github-emmi.github.io/html-semantic-accessibility/      |
 
 ## 👨‍💻 Author
 
